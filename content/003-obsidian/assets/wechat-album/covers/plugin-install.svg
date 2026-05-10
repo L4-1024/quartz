@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title>快速上手 10：国内网络下装社区插件，怎样更稳更少踩坑</title>
+  <desc>快速上手 10：国内网络下装社区插件，怎样更稳更少踩坑</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7f4ea" />
+      <stop offset="100%" stop-color="#e5efe7" />
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#975a3e" />
+      <stop offset="100%" stop-color="#1f3d36" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)" />
+  <circle cx="1320" cy="180" r="180" fill="#975a3e" opacity="0.16" />
+  <circle cx="250" cy="760" r="220" fill="#2f7f6d" opacity="0.10" />
+  <rect x="120" y="130" width="1360" height="640" rx="40" fill="#fffdf8" opacity="0.92" />
+  <rect x="180" y="190" width="1240" height="520" rx="36" fill="url(#card)" />
+  <text x="260" y="330" fill="#f7f4ea" font-size="42" font-family="'Noto Sans CJK SC',sans-serif" letter-spacing="8">OBSIDIAN WECHAT ALBUM</text>
+  <text x="260" y="392" fill="#ffffff" font-size="52" font-weight="700" font-family="'Noto Serif CJK SC',serif"><tspan x="260" dy="0">快速上手 10：国内网络下装社区插件，</tspan><tspan x="260" dy="74">怎样更稳更少踩坑</tspan></text>
+  <text x="260" y="588" fill="#dcefe8" font-size="38" font-family="'Noto Sans CJK SC',sans-serif">10 · 社区插件怎样装更稳</text>
+  <rect x="260" y="650" width="360" height="8" rx="4" fill="#f4c95d" />
+</svg>

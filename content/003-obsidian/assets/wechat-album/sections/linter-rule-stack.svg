@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f2f4ee"/>
+  <text x="120" y="150" fill="#394536" font-size="54" font-family="'Noto Serif CJK SC',serif" font-weight="700">Linter 规则分层图</text>
+  <text x="120" y="205" fill="#74806e" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">从元数据到排版细节，建议按层启用规则而不是一次全开</text>
+  <g font-family="'Noto Sans CJK SC',sans-serif">
+    <rect x="220" y="300" width="1160" height="100" rx="20" fill="#dfeadf"/>
+    <text x="280" y="362" fill="#35503d" font-size="30" font-weight="700">第 1 层：Frontmatter</text>
+    <text x="640" y="362" fill="#6c8375" font-size="24">created / tags / required fields</text>
+    <rect x="260" y="430" width="1080" height="100" rx="20" fill="#e6edf6"/>
+    <text x="320" y="492" fill="#355066" font-size="30" font-weight="700">第 2 层：标题与空行</text>
+    <text x="720" y="492" fill="#72869a" font-size="24">heading levels / blank lines / spacing</text>
+    <rect x="300" y="560" width="1000" height="100" rx="20" fill="#fff1df"/>
+    <text x="360" y="622" fill="#6a5538" font-size="30" font-weight="700">第 3 层：链接与标签</text>
+    <text x="720" y="622" fill="#8a7353" font-size="24">normalize links / lowercase tags / sort tags</text>
+  </g>
+</svg>

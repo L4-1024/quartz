@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#eef2eb"/>
+  <text x="120" y="145" fill="#3f4732" font-size="54" font-family="'Noto Serif CJK SC',serif" font-weight="700">LLM Wiki 入库流程图</text>
+  <text x="120" y="198" fill="#727b66" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">从原始素材到结构化知识页的标准操作顺序</text>
+  <g font-family="'Noto Sans CJK SC',sans-serif">
+    <rect x="120" y="320" width="240" height="160" rx="24" fill="#ffffff"/>
+    <text x="170" y="390" fill="#404732" font-size="30" font-weight="700">读取素材</text>
+    <rect x="430" y="320" width="240" height="160" rx="24" fill="#dfeadf"/>
+    <text x="475" y="390" fill="#36503f" font-size="30" font-weight="700">提取概念</text>
+    <rect x="740" y="320" width="240" height="160" rx="24" fill="#e8eef7"/>
+    <text x="785" y="390" fill="#355066" font-size="30" font-weight="700">更新页面</text>
+    <rect x="1050" y="320" width="240" height="160" rx="24" fill="#fff3df"/>
+    <text x="1095" y="390" fill="#6a5538" font-size="30" font-weight="700">补双链</text>
+    <rect x="1360" y="320" width="140" height="160" rx="24" fill="#f0e8f7"/>
+    <text x="1382" y="390" fill="#584878" font-size="30" font-weight="700">记录</text>
+  </g>
+  <path d="M360 400 H430" stroke="#8a9382" stroke-width="10" stroke-linecap="round"/>
+  <path d="M670 400 H740" stroke="#8a9382" stroke-width="10" stroke-linecap="round"/>
+  <path d="M980 400 H1050" stroke="#8a9382" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1290 400 H1360" stroke="#8a9382" stroke-width="10" stroke-linecap="round"/>
+</svg>

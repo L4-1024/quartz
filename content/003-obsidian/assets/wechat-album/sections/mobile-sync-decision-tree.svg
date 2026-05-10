@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f3f6ef"/>
+  <text x="110" y="145" fill="#344a33" font-size="54" font-family="'Noto Serif CJK SC',serif" font-weight="700">手机端同步方案选择图</text>
+  <text x="110" y="198" fill="#6e8169" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">按平台、成本和复杂度决定适合自己的同步方式</text>
+  <rect x="630" y="250" width="340" height="120" rx="24" fill="#ffffff"/>
+  <text x="705" y="323" fill="#355035" font-size="31" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">你最看重什么？</text>
+  <path d="M800 370 V460" stroke="#84967d" stroke-width="10" stroke-linecap="round"/>
+  <rect x="160" y="470" width="360" height="180" rx="24" fill="#dfeee4"/>
+  <text x="245" y="545" fill="#2f5345" font-size="32" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">体验稳定</text>
+  <text x="235" y="595" fill="#678176" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">优先 Obsidian Sync</text>
+  <rect x="620" y="470" width="360" height="180" rx="24" fill="#e9f1fb"/>
+  <text x="705" y="545" fill="#305066" font-size="32" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">低成本</text>
+  <text x="670" y="595" fill="#6d8597" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">优先 Remotely Save</text>
+  <rect x="1080" y="470" width="360" height="180" rx="24" fill="#fff1df"/>
+  <text x="1160" y="545" fill="#6b5538" font-size="32" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">完全可控</text>
+  <text x="1130" y="595" fill="#8a7353" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">优先 Syncthing / Git</text>
+</svg>

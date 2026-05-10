@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f7f4ec"/>
+  <text x="120" y="150" fill="#4b402f" font-size="54" font-family="'Noto Serif CJK SC',serif" font-weight="700">发布前检查清单</text>
+  <text x="120" y="205" fill="#7b6b57" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">适合放在文末，帮助读者把最后一步检查完整</text>
+  <g font-family="'Noto Sans CJK SC',sans-serif">
+    <rect x="120" y="280" width="620" height="470" rx="28" fill="#ffffff"/>
+    <text x="180" y="360" fill="#3d4c42" font-size="31" font-weight="700">内容检查</text>
+    <text x="180" y="430" fill="#69786f" font-size="26">1. 标题层级不超过三级</text>
+    <text x="180" y="485" fill="#69786f" font-size="26">2. 图片链接全部可访问</text>
+    <text x="180" y="540" fill="#69786f" font-size="26">3. 引用、列表、代码块样式清晰</text>
+    <text x="180" y="595" fill="#69786f" font-size="26">4. 手机端段落间距合适</text>
+
+    <rect x="860" y="280" width="620" height="470" rx="28" fill="#ecf3ef"/>
+    <text x="920" y="360" fill="#2e5147" font-size="31" font-weight="700">发布检查</text>
+    <text x="920" y="430" fill="#627c70" font-size="26">1. 封面图和摘要一致</text>
+    <text x="920" y="485" fill="#627c70" font-size="26">2. 外链和表格显示正常</text>
+    <text x="920" y="540" fill="#627c70" font-size="26">3. 文末保留相关阅读入口</text>
+    <text x="920" y="595" fill="#627c70" font-size="26">4. 再做一次手机端预览</text>
+  </g>
+</svg>

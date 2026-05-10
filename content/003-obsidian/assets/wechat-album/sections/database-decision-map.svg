@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title>什么时候该用数据库视图，什么时候先别上</title>
+  <desc>Obsidian 数据库插件的适用边界与决策思路</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f2e8"/>
+      <stop offset="100%" stop-color="#e4efe9"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3d5a80"/>
+      <stop offset="100%" stop-color="#1f3d36"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1380" cy="160" r="170" fill="#3d5a80" opacity="0.12"/>
+  <circle cx="220" cy="790" r="210" fill="#2f7f6d" opacity="0.08"/>
+  <rect x="72" y="72" width="1456" height="756" rx="34" fill="#fffdf8" opacity="0.96"/>
+  <rect x="110" y="110" width="1380" height="210" rx="28" fill="url(#hero)"/>
+  <text x="160" y="165" fill="#dceaf1" font-size="24" font-family="'Noto Sans CJK SC',sans-serif" letter-spacing="6">OBSIDIAN WECHAT ALBUM</text>
+  <text x="160" y="235" fill="#ffffff" font-size="50" font-weight="700" font-family="'Noto Serif CJK SC',serif">什么时候该用数据库视图，什么时候先别上</text>
+  <text x="160" y="283" fill="#e7f1ec" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">先判断自己是在“做整理”还是“做列表管理”，别一上来就把系统做重了</text>
+  <rect x="160" y="298" width="320" height="8" rx="4" fill="#f4c95d"/>
+
+  <rect x="120" y="380" width="420" height="320" rx="28" fill="#ebf5ef"/>
+  <text x="155" y="435" fill="#1f5b4a" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">适合上数据库</text>
+  <rect x="155" y="470" width="350" height="60" rx="16" fill="#ffffff"/>
+  <text x="178" y="508" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">需要持续管理一批同结构内容</text>
+  <rect x="155" y="548" width="350" height="60" rx="16" fill="#ffffff"/>
+  <text x="178" y="586" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">经常按状态、评分、日期筛选</text>
+  <rect x="155" y="626" width="350" height="60" rx="16" fill="#ffffff"/>
+  <text x="178" y="664" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">希望在视图里直接改属性</text>
+
+  <rect x="590" y="380" width="420" height="320" rx="28" fill="#f4efe5"/>
+  <text x="625" y="435" fill="#6f4a1f" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">暂时不用急着上</text>
+  <rect x="625" y="470" width="350" height="60" rx="16" fill="#fffdf8"/>
+  <text x="648" y="508" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">当前还在建立最基础的记录习惯</text>
+  <rect x="625" y="548" width="350" height="60" rx="16" fill="#fffdf8"/>
+  <text x="648" y="586" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">属性字段还没有统一命名规则</text>
+  <rect x="625" y="626" width="350" height="60" rx="16" fill="#fffdf8"/>
+  <text x="648" y="664" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">只是想看笔记，不需要批量管理</text>
+
+  <rect x="1060" y="380" width="420" height="320" rx="28" fill="#eef4f7"/>
+  <text x="1095" y="435" fill="#27435e" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">更稳的起步顺序</text>
+  <rect x="1095" y="470" width="350" height="60" rx="16" fill="#ffffff"/>
+  <text x="1118" y="508" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">先把属性写顺手</text>
+  <rect x="1095" y="548" width="350" height="60" rx="16" fill="#ffffff"/>
+  <text x="1118" y="586" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">再选 1 个高频场景做数据库</text>
+  <rect x="1095" y="626" width="350" height="60" rx="16" fill="#ffffff"/>
+  <text x="1118" y="664" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">最后才扩到更多看板或表格</text>
+</svg>

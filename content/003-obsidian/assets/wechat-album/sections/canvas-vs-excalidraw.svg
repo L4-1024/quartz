@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f3f4ef"/>
+  <text x="120" y="150" fill="#384537" font-size="54" font-family="'Noto Serif CJK SC',serif" font-weight="700">Canvas 与 Excalidraw 对比图</text>
+  <text x="120" y="205" fill="#72806e" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">前者更适合笔记节点组织，后者更适合手绘式图解</text>
+  <g font-family="'Noto Sans CJK SC',sans-serif">
+    <rect x="140" y="290" width="580" height="460" rx="28" fill="#ffffff"/>
+    <text x="210" y="370" fill="#384537" font-size="38" font-weight="700">Canvas</text>
+    <text x="210" y="435" fill="#74816f" font-size="26">原生支持笔记卡片</text>
+    <text x="210" y="485" fill="#74816f" font-size="26">适合整理关系、流程、模块</text>
+    <text x="210" y="535" fill="#74816f" font-size="26">学习成本低，适合快速搭结构</text>
+    <rect x="880" y="290" width="580" height="460" rx="28" fill="#e8eef7"/>
+    <text x="950" y="370" fill="#365067" font-size="38" font-weight="700">Excalidraw</text>
+    <text x="950" y="435" fill="#72869a" font-size="26">手绘风格更强</text>
+    <text x="950" y="485" fill="#72869a" font-size="26">适合示意图、草图、讲解图</text>
+    <text x="950" y="535" fill="#72869a" font-size="26">功能更多，学习成本更高</text>
+  </g>
+</svg>

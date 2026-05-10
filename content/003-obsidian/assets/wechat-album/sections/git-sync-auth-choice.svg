@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#eef4f6"/>
+  <text x="120" y="150" fill="#28485d" font-size="54" font-family="'Noto Serif CJK SC',serif" font-weight="700">Obsidian Git 认证方式选择图</text>
+  <text x="120" y="205" fill="#6a8292" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">帮助读者快速判断该选 SSH 还是 Token</text>
+  <rect x="150" y="300" width="520" height="420" rx="28" fill="#ffffff"/>
+  <text x="220" y="375" fill="#27485d" font-size="38" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">SSH Key</text>
+  <text x="220" y="445" fill="#67808f" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">适合长期稳定使用</text>
+  <text x="220" y="500" fill="#67808f" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">推荐桌面端主力设备</text>
+  <text x="220" y="555" fill="#67808f" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">首次配置稍复杂</text>
+  <text x="220" y="610" fill="#67808f" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">后续使用最省心</text>
+  <rect x="930" y="300" width="520" height="420" rx="28" fill="#e4f1ea"/>
+  <text x="1000" y="375" fill="#2e5248" font-size="38" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">Token</text>
+  <text x="1000" y="445" fill="#6b8278" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">适合临时接入或受限网络</text>
+  <text x="1000" y="500" fill="#6b8278" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">配置快，但需要注意权限</text>
+  <text x="1000" y="555" fill="#6b8278" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">泄露风险高于 SSH</text>
+  <text x="1000" y="610" fill="#6b8278" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">适合作为备选方案</text>
+</svg>

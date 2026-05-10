@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title>编辑器模式、常用操作与基础排版</title>
+  <desc>Obsidian 编辑器与界面基础</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f2e8"/>
+      <stop offset="100%" stop-color="#e4efe9"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#446a8c"/>
+      <stop offset="100%" stop-color="#1f3d36"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1380" cy="160" r="170" fill="#446a8c" opacity="0.14"/>
+  <circle cx="220" cy="790" r="210" fill="#2f7f6d" opacity="0.10"/>
+  <rect x="72" y="72" width="1456" height="756" rx="34" fill="#fffdf8" opacity="0.96"/>
+  <rect x="110" y="110" width="1380" height="210" rx="28" fill="url(#hero)"/>
+  <text x="160" y="165" fill="#dceaf1" font-size="24" font-family="'Noto Sans CJK SC',sans-serif" letter-spacing="6">OBSIDIAN WECHAT ALBUM</text>
+  <text x="160" y="235" fill="#ffffff" font-size="50" font-weight="700" font-family="'Noto Serif CJK SC',serif">编辑器模式、常用操作与基础排版</text>
+  <text x="160" y="283" fill="#e7f1ec" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">会切模式、会写基本结构、会看面板位置，就已经能完成大多数日常记录</text>
+  <rect x="160" y="298" width="320" height="8" rx="4" fill="#f4c95d"/>
+
+  <rect x="110" y="350" width="430" height="420" rx="28" fill="#eef4f7"/>
+  <text x="145" y="400" fill="#27435e" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">编辑模式</text>
+  <rect x="145" y="435" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="170" y="485" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">源码模式适合精细编辑结构</text>
+  <rect x="145" y="540" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="170" y="590" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">实时预览适合边写边看效果</text>
+  <rect x="145" y="645" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="170" y="695" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">根据任务切换，不需要固定一种</text>
+
+  <rect x="570" y="350" width="430" height="420" rx="28" fill="#ebf5ef"/>
+  <text x="605" y="400" fill="#1f5b4a" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">常用操作</text>
+  <rect x="605" y="435" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="630" y="485" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">快速切换、搜索、命令面板</text>
+  <rect x="605" y="540" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="630" y="590" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">拖拽标签页、拆分面板、固定侧栏</text>
+  <rect x="605" y="645" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="630" y="695" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">高频操作建议尽量走快捷键</text>
+
+  <rect x="1030" y="350" width="460" height="420" rx="28" fill="#f4efe5"/>
+  <text x="1065" y="400" fill="#6f4a1f" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">基础排版</text>
+  <rect x="1065" y="435" width="390" height="86" rx="18" fill="#fffdf8"/>
+  <text x="1090" y="485" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">标题、列表、引用、代码块先用熟</text>
+  <rect x="1065" y="540" width="390" height="86" rx="18" fill="#fffdf8"/>
+  <text x="1090" y="590" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">保持段落短，适合公众号二次改写</text>
+  <rect x="1065" y="645" width="390" height="86" rx="18" fill="#fffdf8"/>
+  <text x="1090" y="695" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">排版稳定后再考虑自动格式化</text>
+</svg>

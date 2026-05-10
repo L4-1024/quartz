@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title>公众号手机端排版时要守住的规则</title>
+  <desc>短句版教程在公众号中的手机端阅读规范</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f2e8"/>
+      <stop offset="100%" stop-color="#e4efe9"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5d4b8a"/>
+      <stop offset="100%" stop-color="#1f3d36"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1380" cy="160" r="170" fill="#5d4b8a" opacity="0.12"/>
+  <circle cx="220" cy="790" r="210" fill="#2f7f6d" opacity="0.08"/>
+  <rect x="72" y="72" width="1456" height="756" rx="34" fill="#fffdf8" opacity="0.96"/>
+  <rect x="110" y="110" width="1380" height="210" rx="28" fill="url(#hero)"/>
+  <text x="160" y="165" fill="#ece5fb" font-size="24" font-family="'Noto Sans CJK SC',sans-serif" letter-spacing="6">OBSIDIAN WECHAT ALBUM</text>
+  <text x="160" y="235" fill="#ffffff" font-size="50" font-weight="700" font-family="'Noto Serif CJK SC',serif">公众号手机端排版时要守住的规则</text>
+  <text x="160" y="283" fill="#e7f1ec" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">重点不是花哨，而是让用户在手机上连续阅读时不累、不乱、不跳出</text>
+  <rect x="160" y="298" width="320" height="8" rx="4" fill="#f4c95d"/>
+
+  <rect x="120" y="380" width="420" height="300" rx="28" fill="#f1edfa"/>
+  <text x="155" y="435" fill="#4a3a72" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">段落规则</text>
+  <rect x="155" y="470" width="350" height="58" rx="16" fill="#ffffff"/>
+  <text x="178" y="507" fill="#4a3a72" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">每段尽量不超过 3 行</text>
+  <rect x="155" y="546" width="350" height="58" rx="16" fill="#ffffff"/>
+  <text x="178" y="583" fill="#4a3a72" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">每节只保留一个核心问题</text>
+
+  <rect x="590" y="380" width="420" height="300" rx="28" fill="#eef4f7"/>
+  <text x="625" y="435" fill="#27435e" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">列表规则</text>
+  <rect x="625" y="470" width="350" height="58" rx="16" fill="#ffffff"/>
+  <text x="648" y="507" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">列表尽量控制在 3 到 5 项</text>
+  <rect x="625" y="546" width="350" height="58" rx="16" fill="#ffffff"/>
+  <text x="648" y="583" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">表格只保留必要字段</text>
+
+  <rect x="1060" y="380" width="420" height="300" rx="28" fill="#ebf5ef"/>
+  <text x="1095" y="435" fill="#1f5b4a" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">配图规则</text>
+  <rect x="1095" y="470" width="350" height="58" rx="16" fill="#ffffff"/>
+  <text x="1118" y="507" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">每个关键步骤尽量配一张图</text>
+  <rect x="1095" y="546" width="350" height="58" rx="16" fill="#ffffff"/>
+  <text x="1118" y="583" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">图片要服务说明，不是装饰占位</text>
+</svg>

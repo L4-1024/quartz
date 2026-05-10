@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title>链接、反向链接与搜索的协作关系</title>
+  <desc>内部链接、嵌入与搜索导航</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f2e8"/>
+      <stop offset="100%" stop-color="#e4efe9"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#975a3e"/>
+      <stop offset="100%" stop-color="#1f3d36"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1370" cy="160" r="170" fill="#975a3e" opacity="0.14"/>
+  <circle cx="220" cy="790" r="200" fill="#2f7f6d" opacity="0.10"/>
+  <rect x="72" y="72" width="1456" height="756" rx="34" fill="#fffdf8" opacity="0.96"/>
+  <rect x="110" y="110" width="1380" height="210" rx="28" fill="url(#hero)"/>
+  <text x="160" y="165" fill="#f2e8d9" font-size="24" font-family="'Noto Sans CJK SC',sans-serif" letter-spacing="6">OBSIDIAN WECHAT ALBUM</text>
+  <text x="160" y="235" fill="#ffffff" font-size="50" font-weight="700" font-family="'Noto Serif CJK SC',serif">链接、反向链接与搜索的协作关系</text>
+  <text x="160" y="283" fill="#e7f1ec" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">从单篇笔记到知识网络，靠的是链接建立关系，搜索负责定位与回收</text>
+  <rect x="160" y="298" width="300" height="8" rx="4" fill="#f4c95d"/>
+
+  <rect x="110" y="350" width="400" height="420" rx="28" fill="#f4efe5"/>
+  <text x="145" y="400" fill="#6f4a1f" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">内部链接</text>
+  <rect x="145" y="435" width="330" height="82" rx="18" fill="#fffdf8"/>
+  <text x="170" y="483" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">[[主题页]]</text>
+  <rect x="145" y="533" width="330" height="82" rx="18" fill="#fffdf8"/>
+  <text x="170" y="581" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">[[主题页#章节]]</text>
+  <rect x="145" y="631" width="330" height="82" rx="18" fill="#fffdf8"/>
+  <text x="170" y="679" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">![[摘要页]]</text>
+
+  <rect x="560" y="350" width="480" height="420" rx="28" fill="#eef4f7"/>
+  <text x="595" y="400" fill="#27435e" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">反向链接</text>
+  <rect x="595" y="435" width="410" height="82" rx="18" fill="#ffffff"/>
+  <text x="620" y="482" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">看到哪些笔记引用了当前页面</text>
+  <rect x="595" y="532" width="410" height="82" rx="18" fill="#ffffff"/>
+  <text x="620" y="579" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">发现孤立页面和高频节点</text>
+  <rect x="595" y="629" width="410" height="82" rx="18" fill="#ffffff"/>
+  <text x="620" y="676" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">适合补结构、建索引页</text>
+
+  <rect x="1090" y="350" width="400" height="420" rx="28" fill="#ebf5ef"/>
+  <text x="1125" y="400" fill="#1f5b4a" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">搜索配合</text>
+  <rect x="1125" y="435" width="330" height="82" rx="18" fill="#ffffff"/>
+  <text x="1150" y="483" fill="#1f5b4a" font-size="19" font-family="'JetBrains Mono','Consolas',monospace">file: / tag: / path:</text>
+  <rect x="1125" y="533" width="330" height="82" rx="18" fill="#ffffff"/>
+  <text x="1150" y="581" fill="#1f5b4a" font-size="19" font-family="'JetBrains Mono','Consolas',monospace">inlinks: / outlinks:</text>
+  <rect x="1125" y="631" width="330" height="82" rx="18" fill="#ffffff"/>
+  <text x="1150" y="679" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">用于查漏、去重、导航</text>
+</svg>

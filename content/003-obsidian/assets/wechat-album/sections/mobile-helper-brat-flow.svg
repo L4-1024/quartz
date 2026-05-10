@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#eef4f2"/>
+  <text x="120" y="150" fill="#28463f" font-size="54" font-family="'Noto Serif CJK SC',serif" font-weight="700">手机端 BRAT 安装流程</text>
+  <text x="120" y="205" fill="#688076" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">适合解释“先装 BRAT，再装测试版插件”的顺序</text>
+  <g font-family="'Noto Sans CJK SC',sans-serif">
+    <rect x="130" y="320" width="260" height="170" rx="24" fill="#ffffff"/>
+    <text x="180" y="390" fill="#29473f" font-size="32" font-weight="700">开启社区插件</text>
+    <text x="185" y="435" fill="#6b8077" font-size="24">进入设置页</text>
+    <rect x="470" y="320" width="260" height="170" rx="24" fill="#dff0ea"/>
+    <text x="555" y="390" fill="#29473f" font-size="32" font-weight="700">安装 BRAT</text>
+    <text x="520" y="435" fill="#6b8077" font-size="24">用于添加测试版插件</text>
+    <rect x="810" y="320" width="260" height="170" rx="24" fill="#e8f4fb"/>
+    <text x="852" y="390" fill="#2f5162" font-size="32" font-weight="700">录入仓库地址</text>
+    <text x="846" y="435" fill="#728896" font-size="24">安装同步助手</text>
+    <rect x="1150" y="320" width="260" height="170" rx="24" fill="#fff3df"/>
+    <text x="1210" y="390" fill="#6a5438" font-size="32" font-weight="700">配置密钥并同步</text>
+    <text x="1215" y="435" fill="#8a7353" font-size="24">执行命令导入文章</text>
+  </g>
+  <path d="M390 405 H470" stroke="#87a095" stroke-width="10" stroke-linecap="round"/>
+  <path d="M730 405 H810" stroke="#87a095" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1070 405 H1150" stroke="#87a095" stroke-width="10" stroke-linecap="round"/>
+</svg>

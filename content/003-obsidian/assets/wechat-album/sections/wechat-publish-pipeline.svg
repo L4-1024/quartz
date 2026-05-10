@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#eef4f7"/>
+  <text x="120" y="150" fill="#2d4d63" font-size="54" font-family="'Noto Serif CJK SC',serif" font-weight="700">公众号发布完整流程</text>
+  <text x="120" y="205" fill="#688194" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">把写作、传图、排版、发布串成一条稳定链路</text>
+  <g font-family="'Noto Sans CJK SC',sans-serif">
+    <rect x="130" y="320" width="260" height="170" rx="24" fill="#ffffff"/>
+    <text x="188" y="390" fill="#27475c" font-size="32" font-weight="700">Obsidian 写作</text>
+    <text x="188" y="435" fill="#698092" font-size="24">保留本地图片</text>
+    <rect x="470" y="320" width="260" height="170" rx="24" fill="#dcecf7"/>
+    <text x="530" y="390" fill="#27475c" font-size="32" font-weight="700">上传图片</text>
+    <text x="520" y="435" fill="#698092" font-size="24">替换为公网链接</text>
+    <rect x="810" y="320" width="260" height="170" rx="24" fill="#e4f2ea"/>
+    <text x="880" y="390" fill="#26483f" font-size="32" font-weight="700">样式排版</text>
+    <text x="850" y="435" fill="#678073" font-size="24">转换公众号可粘贴格式</text>
+    <rect x="1150" y="320" width="260" height="170" rx="24" fill="#fff1dc"/>
+    <text x="1210" y="390" fill="#6b5538" font-size="32" font-weight="700">后台发布</text>
+    <text x="1220" y="435" fill="#8a7251" font-size="24">检查封面与间距</text>
+  </g>
+  <path d="M390 405 H470" stroke="#7a93a5" stroke-width="10" stroke-linecap="round"/>
+  <path d="M730 405 H810" stroke="#7a93a5" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1070 405 H1150" stroke="#7a93a5" stroke-width="10" stroke-linecap="round"/>
+</svg>

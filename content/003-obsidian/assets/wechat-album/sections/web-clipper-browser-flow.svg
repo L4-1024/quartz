@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef4fb"/>
+      <stop offset="100%" stop-color="#edf5ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <text x="120" y="150" fill="#274964" font-size="54" font-family="'Noto Serif CJK SC',serif" font-weight="700">Web Clipper 网页剪藏流程图</text>
+  <text x="120" y="205" fill="#5a7685" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">从浏览器页面到 Obsidian 笔记的典型路径</text>
+
+  <rect x="120" y="300" width="280" height="180" rx="28" fill="#ffffff"/>
+  <text x="180" y="375" fill="#23445d" font-size="31" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">打开网页</text>
+  <text x="180" y="425" fill="#5b7684" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">文章 / 教程 / 视频页</text>
+
+  <rect x="500" y="300" width="280" height="180" rx="28" fill="#dfeffc"/>
+  <text x="540" y="375" fill="#23445d" font-size="31" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">选择模式</text>
+  <text x="540" y="425" fill="#5b7684" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">Article / Reader / Screenshot</text>
+
+  <rect x="880" y="300" width="280" height="180" rx="28" fill="#e6f3eb"/>
+  <text x="940" y="375" fill="#24453d" font-size="31" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">套用模板</text>
+  <text x="940" y="425" fill="#61796d" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">决定保存目录和命名</text>
+
+  <rect x="1260" y="300" width="220" height="180" rx="28" fill="#fff4df"/>
+  <text x="1308" y="375" fill="#6b5538" font-size="31" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">入库</text>
+  <text x="1298" y="425" fill="#876e4e" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">生成笔记文件</text>
+
+  <path d="M400 390 H500" stroke="#6c8998" stroke-width="10" stroke-linecap="round"/>
+  <path d="M780 390 H880" stroke="#6c8998" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1160 390 H1260" stroke="#6c8998" stroke-width="10" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title>长文改成公众号短句版的处理顺序</title>
+  <desc>Obsidian 教程衍生成公众号稿的改写流程</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f2e8"/>
+      <stop offset="100%" stop-color="#e4efe9"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5d4b8a"/>
+      <stop offset="100%" stop-color="#27435e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1380" cy="170" r="170" fill="#5d4b8a" opacity="0.12"/>
+  <circle cx="210" cy="800" r="210" fill="#2f7f6d" opacity="0.08"/>
+  <rect x="72" y="72" width="1456" height="756" rx="34" fill="#fffdf8" opacity="0.96"/>
+  <rect x="110" y="110" width="1380" height="210" rx="28" fill="url(#hero)"/>
+  <text x="160" y="165" fill="#ece5fb" font-size="24" font-family="'Noto Sans CJK SC',sans-serif" letter-spacing="6">OBSIDIAN WECHAT ALBUM</text>
+  <text x="160" y="235" fill="#ffffff" font-size="50" font-weight="700" font-family="'Noto Serif CJK SC',serif">长文改成公众号短句版的处理顺序</text>
+  <text x="160" y="283" fill="#e7f1ec" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">保留知识骨架，压缩表达密度，再按手机端节奏重新排版</text>
+  <rect x="160" y="298" width="320" height="8" rx="4" fill="#f4c95d"/>
+
+  <rect x="120" y="380" width="420" height="290" rx="28" fill="#f1edfa"/>
+  <text x="155" y="435" fill="#4a3a72" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">第一步：保留骨架</text>
+  <rect x="155" y="470" width="350" height="60" rx="16" fill="#ffffff"/>
+  <text x="178" y="508" fill="#4a3a72" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">留下核心问题、步骤、风险提醒</text>
+  <rect x="155" y="548" width="350" height="60" rx="16" fill="#ffffff"/>
+  <text x="178" y="586" fill="#4a3a72" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">删除重复定义和过长背景铺垫</text>
+
+  <rect x="590" y="380" width="420" height="290" rx="28" fill="#eef4f7"/>
+  <text x="625" y="435" fill="#27435e" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">第二步：压缩表达</text>
+  <rect x="625" y="470" width="350" height="60" rx="16" fill="#ffffff"/>
+  <text x="648" y="508" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">长段拆成短句、短段、短列表</text>
+  <rect x="625" y="548" width="350" height="60" rx="16" fill="#ffffff"/>
+  <text x="648" y="586" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">每节保留一句结论和一组动作</text>
+
+  <rect x="1060" y="380" width="420" height="290" rx="28" fill="#ebf5ef"/>
+  <text x="1095" y="435" fill="#1f5b4a" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">第三步：手机排版检查</text>
+  <rect x="1095" y="470" width="350" height="60" rx="16" fill="#ffffff"/>
+  <text x="1118" y="508" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">每节尽量配一张图或流程卡片</text>
+  <rect x="1095" y="548" width="350" height="60" rx="16" fill="#ffffff"/>
+  <text x="1118" y="586" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">收尾加相关阅读和下一篇引导</text>
+</svg>

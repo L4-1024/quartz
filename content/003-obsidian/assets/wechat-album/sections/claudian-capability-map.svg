@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#eef3f6"/>
+  <text x="120" y="150" fill="#2c495f" font-size="54" font-family="'Noto Serif CJK SC',serif" font-weight="700">Claudian 能力结构图</text>
+  <text x="120" y="205" fill="#6b8393" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">把 AI 助手在 Obsidian 中的常见能力拆成 4 个模块</text>
+  <g font-family="'Noto Sans CJK SC',sans-serif">
+    <rect x="130" y="310" width="300" height="230" rx="24" fill="#ffffff"/>
+    <text x="190" y="390" fill="#304d62" font-size="32" font-weight="700">文本编辑</text>
+    <text x="190" y="445" fill="#718695" font-size="24">Inline Edit</text>
+    <text x="190" y="490" fill="#718695" font-size="24">逐段改写 / 对比接受</text>
+    <rect x="500" y="310" width="300" height="230" rx="24" fill="#e7f2ec"/>
+    <text x="560" y="390" fill="#305146" font-size="32" font-weight="700">命令执行</text>
+    <text x="560" y="445" fill="#6d8378" font-size="24">Slash Commands</text>
+    <text x="560" y="490" fill="#6d8378" font-size="24">总结 / 翻译 / 解释 / 计划</text>
+    <rect x="870" y="310" width="300" height="230" rx="24" fill="#edf1fa"/>
+    <text x="930" y="390" fill="#345067" font-size="32" font-weight="700">上下文引用</text>
+    <text x="930" y="445" fill="#72869a" font-size="24">@mention 文件 / 段落</text>
+    <text x="930" y="490" fill="#72869a" font-size="24">结合库内笔记回答</text>
+    <rect x="1240" y="310" width="240" height="230" rx="24" fill="#fff2df"/>
+    <text x="1290" y="390" fill="#6a5538" font-size="32" font-weight="700">工具扩展</text>
+    <text x="1290" y="445" fill="#8a7353" font-size="24">Plan Mode</text>
+    <text x="1290" y="490" fill="#8a7353" font-size="24">MCP Server</text>
+  </g>
+</svg>

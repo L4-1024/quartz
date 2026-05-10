@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title>日记模板、周总结与复盘结构</title>
+  <desc>复盘模板与回顾体系</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f2e8"/>
+      <stop offset="100%" stop-color="#e4efe9"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#446a8c"/>
+      <stop offset="100%" stop-color="#1f3d36"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1380" cy="160" r="170" fill="#446a8c" opacity="0.14"/>
+  <circle cx="220" cy="790" r="210" fill="#2f7f6d" opacity="0.10"/>
+  <rect x="72" y="72" width="1456" height="756" rx="34" fill="#fffdf8" opacity="0.96"/>
+  <rect x="110" y="110" width="1380" height="210" rx="28" fill="url(#hero)"/>
+  <text x="160" y="165" fill="#dceaf1" font-size="24" font-family="'Noto Sans CJK SC',sans-serif" letter-spacing="6">OBSIDIAN WECHAT ALBUM</text>
+  <text x="160" y="235" fill="#ffffff" font-size="50" font-weight="700" font-family="'Noto Serif CJK SC',serif">日记模板、周总结与复盘结构</text>
+  <text x="160" y="283" fill="#e7f1ec" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">复盘模板的价值在于固定问题框架，让回顾变成稳定习惯</text>
+  <rect x="160" y="298" width="300" height="8" rx="4" fill="#f4c95d"/>
+
+  <rect x="110" y="350" width="430" height="420" rx="28" fill="#eef4f7"/>
+  <text x="145" y="400" fill="#27435e" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">日记层</text>
+  <rect x="145" y="435" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="170" y="485" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">记录当天任务、事件、状态和想法</text>
+  <rect x="145" y="540" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="170" y="590" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">为周总结提供原始材料</text>
+  <rect x="145" y="645" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="170" y="695" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">重点是持续性，不是写长文</text>
+
+  <rect x="570" y="350" width="430" height="420" rx="28" fill="#ebf5ef"/>
+  <text x="605" y="400" fill="#1f5b4a" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">周总结层</text>
+  <rect x="605" y="435" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="630" y="485" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">汇总本周完成、遗留和重点变化</text>
+  <rect x="605" y="540" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="630" y="590" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">把分散信息压缩成可读摘要</text>
+  <rect x="605" y="645" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="630" y="695" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">为下周计划提供依据</text>
+
+  <rect x="1030" y="350" width="460" height="420" rx="28" fill="#f4efe5"/>
+  <text x="1065" y="400" fill="#6f4a1f" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">复盘层</text>
+  <rect x="1065" y="435" width="390" height="86" rx="18" fill="#fffdf8"/>
+  <text x="1090" y="485" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">固定提问：做对了什么，卡在哪里</text>
+  <rect x="1065" y="540" width="390" height="86" rx="18" fill="#fffdf8"/>
+  <text x="1090" y="590" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">产出下一轮改进动作而不只是感想</text>
+  <rect x="1065" y="645" width="390" height="86" rx="18" fill="#fffdf8"/>
+  <text x="1090" y="695" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">模板越简单，越容易长期坚持</text>
+</svg>

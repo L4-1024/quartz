@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title>采集、整理、同步与发布的整体链路</title>
+  <desc>Obsidian 完整工作流总览</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f2e8"/>
+      <stop offset="100%" stop-color="#e4efe9"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8c6c3b"/>
+      <stop offset="100%" stop-color="#1f3d36"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1380" cy="160" r="170" fill="#8c6c3b" opacity="0.14"/>
+  <circle cx="220" cy="790" r="210" fill="#2f7f6d" opacity="0.10"/>
+  <rect x="72" y="72" width="1456" height="756" rx="34" fill="#fffdf8" opacity="0.96"/>
+  <rect x="110" y="110" width="1380" height="210" rx="28" fill="url(#hero)"/>
+  <text x="160" y="165" fill="#f2e8d9" font-size="24" font-family="'Noto Sans CJK SC',sans-serif" letter-spacing="6">OBSIDIAN WECHAT ALBUM</text>
+  <text x="160" y="235" fill="#ffffff" font-size="50" font-weight="700" font-family="'Noto Serif CJK SC',serif">采集、整理、同步与发布的整体链路</text>
+  <text x="160" y="283" fill="#e7f1ec" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">完整工作流的重点不是工具越多越好，而是每一步都有明确职责</text>
+  <rect x="160" y="298" width="320" height="8" rx="4" fill="#f4c95d"/>
+
+  <rect x="110" y="350" width="300" height="420" rx="28" fill="#f4efe5"/>
+  <text x="145" y="400" fill="#6f4a1f" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">采集</text>
+  <rect x="145" y="435" width="230" height="86" rx="18" fill="#fffdf8"/>
+  <text x="170" y="485" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">日记输入</text>
+  <rect x="145" y="540" width="230" height="86" rx="18" fill="#fffdf8"/>
+  <text x="170" y="590" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">网页剪藏</text>
+  <rect x="145" y="645" width="230" height="86" rx="18" fill="#fffdf8"/>
+  <text x="170" y="695" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">临时记录</text>
+
+  <rect x="450" y="350" width="300" height="420" rx="28" fill="#eef4f7"/>
+  <text x="485" y="400" fill="#27435e" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">整理</text>
+  <rect x="485" y="435" width="230" height="86" rx="18" fill="#ffffff"/>
+  <text x="510" y="485" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">双链与标签</text>
+  <rect x="485" y="540" width="230" height="86" rx="18" fill="#ffffff"/>
+  <text x="510" y="590" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">模板与属性</text>
+  <rect x="485" y="645" width="230" height="86" rx="18" fill="#ffffff"/>
+  <text x="510" y="695" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">任务与数据库</text>
+
+  <rect x="790" y="350" width="300" height="420" rx="28" fill="#ebf5ef"/>
+  <text x="825" y="400" fill="#1f5b4a" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">同步</text>
+  <rect x="825" y="435" width="230" height="86" rx="18" fill="#ffffff"/>
+  <text x="850" y="485" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">官方同步</text>
+  <rect x="825" y="540" width="230" height="86" rx="18" fill="#ffffff"/>
+  <text x="850" y="590" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">第三方同步</text>
+  <rect x="825" y="645" width="230" height="86" rx="18" fill="#ffffff"/>
+  <text x="850" y="695" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">Git 版本管理</text>
+
+  <rect x="1130" y="350" width="360" height="420" rx="28" fill="#f1edfa"/>
+  <text x="1165" y="400" fill="#4a3a72" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">输出</text>
+  <rect x="1165" y="435" width="290" height="86" rx="18" fill="#ffffff"/>
+  <text x="1190" y="485" fill="#4a3a72" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">知识沉淀与复盘</text>
+  <rect x="1165" y="540" width="290" height="86" rx="18" fill="#ffffff"/>
+  <text x="1190" y="590" fill="#4a3a72" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">项目推进与协作</text>
+  <rect x="1165" y="645" width="290" height="86" rx="18" fill="#ffffff"/>
+  <text x="1190" y="695" fill="#4a3a72" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">公众号或公开发布</text>
+</svg>

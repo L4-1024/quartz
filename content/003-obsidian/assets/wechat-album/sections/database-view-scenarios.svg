@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f4f1ea"/>
+  <text x="120" y="150" fill="#4a4030" font-size="54" font-family="'Noto Serif CJK SC',serif" font-weight="700">数据库视图适用场景图</text>
+  <text x="120" y="205" fill="#7a6d5a" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">适合把“有字段、有状态、有筛选”的笔记变成表格或看板</text>
+  <g font-family="'Noto Sans CJK SC',sans-serif">
+    <rect x="120" y="290" width="300" height="250" rx="24" fill="#ffffff"/>
+    <text x="175" y="380" fill="#504533" font-size="32" font-weight="700">阅读清单</text>
+    <text x="175" y="435" fill="#7a6d5a" font-size="24">作者 / 评分 / 状态</text>
+    <rect x="470" y="290" width="300" height="250" rx="24" fill="#eef4ef"/>
+    <text x="525" y="380" fill="#345145" font-size="32" font-weight="700">文章管理</text>
+    <text x="525" y="435" fill="#678075" font-size="24">草稿 / 待发 / 已发</text>
+    <rect x="820" y="290" width="300" height="250" rx="24" fill="#edf2fa"/>
+    <text x="895" y="380" fill="#355067" font-size="32" font-weight="700">项目追踪</text>
+    <text x="895" y="435" fill="#6f8397" font-size="24">负责人 / 截止日期</text>
+    <rect x="1170" y="290" width="300" height="250" rx="24" fill="#fff1df"/>
+    <text x="1235" y="380" fill="#6b5538" font-size="32" font-weight="700">影视收藏</text>
+    <text x="1235" y="435" fill="#8a7353" font-size="24">片名 / 导演 / 日期</text>
+  </g>
+</svg>

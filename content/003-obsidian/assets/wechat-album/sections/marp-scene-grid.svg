@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title>一份 Markdown 如何复用到不同演示场景</title>
+  <desc>Marp Slides 的应用场景与输出方向</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f2e8"/>
+      <stop offset="100%" stop-color="#e4efe9"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2f7f6d"/>
+      <stop offset="100%" stop-color="#6f4a1f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1380" cy="160" r="170" fill="#2f7f6d" opacity="0.12"/>
+  <circle cx="220" cy="790" r="210" fill="#6f4a1f" opacity="0.08"/>
+  <rect x="72" y="72" width="1456" height="756" rx="34" fill="#fffdf8" opacity="0.96"/>
+  <rect x="110" y="110" width="1380" height="210" rx="28" fill="url(#hero)"/>
+  <text x="160" y="165" fill="#e7f1ec" font-size="24" font-family="'Noto Sans CJK SC',sans-serif" letter-spacing="6">OBSIDIAN WECHAT ALBUM</text>
+  <text x="160" y="235" fill="#ffffff" font-size="50" font-weight="700" font-family="'Noto Serif CJK SC',serif">一份 Markdown 如何复用到不同演示场景</text>
+  <text x="160" y="283" fill="#e7f1ec" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">同一份内容可以服务分享、授课、方案讲解和知识输出，不必重复造稿</text>
+  <rect x="160" y="298" width="320" height="8" rx="4" fill="#f4c95d"/>
+
+  <rect x="120" y="370" width="320" height="300" rx="28" fill="#ebf5ef"/>
+  <text x="155" y="425" fill="#1f5b4a" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">内部分享</text>
+  <rect x="155" y="460" width="250" height="58" rx="16" fill="#ffffff"/>
+  <text x="178" y="497" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">读书会、周会、项目同步</text>
+  <rect x="155" y="536" width="250" height="58" rx="16" fill="#ffffff"/>
+  <text x="178" y="573" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">适合结构清楚的文本内容</text>
+
+  <rect x="470" y="370" width="320" height="300" rx="28" fill="#eef4f7"/>
+  <text x="505" y="425" fill="#27435e" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">课程讲义</text>
+  <rect x="505" y="460" width="250" height="58" rx="16" fill="#ffffff"/>
+  <text x="528" y="497" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">按章节拆分，导出 PDF 讲义</text>
+  <rect x="505" y="536" width="250" height="58" rx="16" fill="#ffffff"/>
+  <text x="528" y="573" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">适合稳定复用的教学内容</text>
+
+  <rect x="820" y="370" width="320" height="300" rx="28" fill="#f4efe5"/>
+  <text x="855" y="425" fill="#6f4a1f" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">方案讲解</text>
+  <rect x="855" y="460" width="250" height="58" rx="16" fill="#fffdf8"/>
+  <text x="878" y="497" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">同一稿件可多轮更新演示</text>
+  <rect x="855" y="536" width="250" height="58" rx="16" fill="#fffdf8"/>
+  <text x="878" y="573" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">适合方案评审与客户沟通</text>
+
+  <rect x="1170" y="370" width="320" height="300" rx="28" fill="#f1edfa"/>
+  <text x="1205" y="425" fill="#4a3a72" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">公开输出</text>
+  <rect x="1205" y="460" width="250" height="58" rx="16" fill="#ffffff"/>
+  <text x="1228" y="497" fill="#4a3a72" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">文章、演讲、知识沉淀互相复用</text>
+  <rect x="1205" y="536" width="250" height="58" rx="16" fill="#ffffff"/>
+  <text x="1228" y="573" fill="#4a3a72" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">减少重复排版与重复写作</text>
+</svg>

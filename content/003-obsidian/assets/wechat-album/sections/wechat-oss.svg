@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title>图床、图片替换、排版工具与发布步骤</title>
+  <desc>公众号发布工作流完整指南</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f2e8"/>
+      <stop offset="100%" stop-color="#e4efe9"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#446a8c"/>
+      <stop offset="100%" stop-color="#1f3d36"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1380" cy="160" r="170" fill="#446a8c" opacity="0.14"/>
+  <circle cx="220" cy="790" r="210" fill="#2f7f6d" opacity="0.10"/>
+  <rect x="72" y="72" width="1456" height="756" rx="34" fill="#fffdf8" opacity="0.96"/>
+  <rect x="110" y="110" width="1380" height="210" rx="28" fill="url(#hero)"/>
+  <text x="160" y="165" fill="#dceaf1" font-size="24" font-family="'Noto Sans CJK SC',sans-serif" letter-spacing="6">OBSIDIAN WECHAT ALBUM</text>
+  <text x="160" y="235" fill="#ffffff" font-size="50" font-weight="700" font-family="'Noto Serif CJK SC',serif">图床、图片替换、排版工具与发布步骤</text>
+  <text x="160" y="283" fill="#e7f1ec" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">完整发布链路要同时解决“图片可访问、样式可阅读、内容可复用”三件事</text>
+  <rect x="160" y="298" width="330" height="8" rx="4" fill="#f4c95d"/>
+
+  <rect x="110" y="350" width="430" height="420" rx="28" fill="#eef4f7"/>
+  <text x="145" y="400" fill="#27435e" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">图床处理</text>
+  <rect x="145" y="435" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="170" y="485" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">把本地图片转成公众号可访问链接</text>
+  <rect x="145" y="540" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="170" y="590" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">保证封面图和正文图都能稳定加载</text>
+  <rect x="145" y="645" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="170" y="695" fill="#27435e" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">发布前集中检查失效和错链</text>
+
+  <rect x="570" y="350" width="430" height="420" rx="28" fill="#ebf5ef"/>
+  <text x="605" y="400" fill="#1f5b4a" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">图片替换与排版</text>
+  <rect x="605" y="435" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="630" y="485" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">把 Obsidian 引用替换成真实图片地址</text>
+  <rect x="605" y="540" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="630" y="590" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">用排版工具控制字体、间距、引用样式</text>
+  <rect x="605" y="645" width="360" height="86" rx="18" fill="#ffffff"/>
+  <text x="630" y="695" fill="#1f5b4a" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">优先保证手机端阅读体验</text>
+
+  <rect x="1030" y="350" width="460" height="420" rx="28" fill="#f4efe5"/>
+  <text x="1065" y="400" fill="#6f4a1f" font-size="31" font-weight="700" font-family="'Noto Sans CJK SC',sans-serif">发布步骤</text>
+  <rect x="1065" y="435" width="390" height="86" rx="18" fill="#fffdf8"/>
+  <text x="1090" y="485" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">导入公众号后台并检查摘要和封面</text>
+  <rect x="1065" y="540" width="390" height="86" rx="18" fill="#fffdf8"/>
+  <text x="1090" y="590" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">手机预览、校验链接、再确认发布</text>
+  <rect x="1065" y="645" width="390" height="86" rx="18" fill="#fffdf8"/>
+  <text x="1090" y="695" fill="#6f4a1f" font-size="19" font-family="'Noto Sans CJK SC',sans-serif">源文档和衍生稿建议继续分开维护</text>
+</svg>

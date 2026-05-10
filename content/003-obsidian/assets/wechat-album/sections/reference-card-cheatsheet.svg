@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7f2e8"/>
+      <stop offset="100%" stop-color="#e6efe8"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#315f72"/>
+      <stop offset="100%" stop-color="#1e3b35"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="90" y="90" width="1420" height="720" rx="36" fill="#fffdf8"/>
+  <text x="150" y="170" fill="#23443c" font-size="50" font-family="'Noto Serif CJK SC',serif" font-weight="700">快捷键与语法速查图</text>
+  <text x="150" y="220" fill="#58756c" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">把最常用的操作集中到一张图里，方便公众号读者快速浏览</text>
+
+  <rect x="150" y="280" width="400" height="420" rx="26" fill="url(#card)"/>
+  <text x="190" y="345" fill="#f7f2e8" font-size="31" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">常用快捷键</text>
+  <text x="190" y="395" fill="#e2efe9" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">Ctrl/Cmd + N  新建笔记</text>
+  <text x="190" y="445" fill="#e2efe9" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">Ctrl/Cmd + O  快速切换</text>
+  <text x="190" y="495" fill="#e2efe9" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">Ctrl/Cmd + P  命令面板</text>
+  <text x="190" y="545" fill="#e2efe9" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">Ctrl/Cmd + F  当前搜索</text>
+  <text x="190" y="595" fill="#e2efe9" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">Ctrl/Cmd + Shift + F  全局搜索</text>
+  <text x="190" y="645" fill="#e2efe9" font-size="26" font-family="'Noto Sans CJK SC',sans-serif">Ctrl/Cmd + K  插入内部链接</text>
+
+  <rect x="600" y="280" width="380" height="420" rx="26" fill="#eef4ef"/>
+  <text x="640" y="345" fill="#26483f" font-size="31" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">高频 Markdown</text>
+  <text x="640" y="395" fill="#42655a" font-size="25" font-family="'Noto Sans CJK SC',sans-serif">[[笔记名]]  内部链接</text>
+  <text x="640" y="445" fill="#42655a" font-size="25" font-family="'Noto Sans CJK SC',sans-serif">#标签  标签归类</text>
+  <text x="640" y="495" fill="#42655a" font-size="25" font-family="'Noto Sans CJK SC',sans-serif">- [ ]  任务复选框</text>
+  <text x="640" y="545" fill="#42655a" font-size="25" font-family="'Noto Sans CJK SC',sans-serif">| 表头 | 表格内容</text>
+  <text x="640" y="595" fill="#42655a" font-size="25" font-family="'Noto Sans CJK SC',sans-serif">![[图片.png]]  嵌入附件</text>
+
+  <rect x="1030" y="280" width="420" height="420" rx="26" fill="#f8f3ea"/>
+  <text x="1070" y="345" fill="#6a5234" font-size="31" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">推荐目录</text>
+  <text x="1070" y="405" fill="#7f6750" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">Vault/</text>
+  <text x="1095" y="450" fill="#7f6750" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">.obsidian/   配置目录</text>
+  <text x="1095" y="495" fill="#7f6750" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">_templates/  模板</text>
+  <text x="1095" y="540" fill="#7f6750" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">_assets/     图片与附件</text>
+  <text x="1095" y="585" fill="#7f6750" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">Daily/       日记</text>
+  <text x="1095" y="630" fill="#7f6750" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">Projects/    项目笔记</text>
+  <text x="1095" y="675" fill="#7f6750" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">MOC/         索引页</text>
+</svg>

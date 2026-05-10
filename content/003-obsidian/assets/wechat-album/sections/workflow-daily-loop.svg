@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#eff5f3"/>
+  <text x="120" y="150" fill="#29483f" font-size="54" font-family="'Noto Serif CJK SC',serif" font-weight="700">每日工作流闭环图</text>
+  <text x="120" y="205" fill="#678177" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">把采集、整理、同步、输出做成一个循环，而不是孤立动作</text>
+  <circle cx="450" cy="480" r="145" fill="#dfeee7"/>
+  <circle cx="800" cy="320" r="145" fill="#e6f0f8"/>
+  <circle cx="1150" cy="480" r="145" fill="#fff1de"/>
+  <circle cx="800" cy="640" r="145" fill="#ece6f4"/>
+  <text x="397" y="490" fill="#2f5247" font-size="31" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">采集</text>
+  <text x="745" y="330" fill="#2e5165" font-size="31" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">整理</text>
+  <text x="1097" y="490" fill="#6c5537" font-size="31" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">同步</text>
+  <text x="748" y="650" fill="#5a4b76" font-size="31" font-family="'Noto Sans CJK SC',sans-serif" font-weight="700">输出</text>
+  <path d="M580 410 L690 360" stroke="#839a91" stroke-width="10" stroke-linecap="round"/>
+  <path d="M930 360 L1040 410" stroke="#839a91" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1040 550 L930 600" stroke="#839a91" stroke-width="10" stroke-linecap="round"/>
+  <path d="M690 600 L580 550" stroke="#839a91" stroke-width="10" stroke-linecap="round"/>
+</svg>

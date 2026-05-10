@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#eff4f1"/>
+  <text x="120" y="150" fill="#30483f" font-size="54" font-family="'Noto Serif CJK SC',serif" font-weight="700">模板系统分层图</text>
+  <text x="120" y="205" fill="#698075" font-size="24" font-family="'Noto Sans CJK SC',sans-serif">从通用模板到专题模板，逐层提高复用性</text>
+  <g font-family="'Noto Sans CJK SC',sans-serif">
+    <rect x="180" y="320" width="360" height="360" rx="28" fill="#ffffff"/>
+    <text x="260" y="400" fill="#30483f" font-size="31" font-weight="700">通用模板</text>
+    <text x="240" y="455" fill="#6a8076" font-size="24">标题 / created / tags</text>
+    <text x="240" y="500" fill="#6a8076" font-size="24">适合快速起草</text>
+    <rect x="620" y="320" width="360" height="360" rx="28" fill="#e4f1ea"/>
+    <text x="700" y="400" fill="#305146" font-size="31" font-weight="700">类型模板</text>
+    <text x="675" y="455" fill="#6c8378" font-size="24">日记 / 任务 / 读书 / 项目</text>
+    <text x="675" y="500" fill="#6c8378" font-size="24">适合稳定工作流</text>
+    <rect x="1060" y="320" width="360" height="360" rx="28" fill="#edf1fa"/>
+    <text x="1140" y="400" fill="#365067" font-size="31" font-weight="700">专题模板</text>
+    <text x="1110" y="455" fill="#73879a" font-size="24">项目复盘 / 方案汇报等</text>
+    <text x="1110" y="500" fill="#73879a" font-size="24">适合高价值固定场景</text>
+  </g>
+</svg>
